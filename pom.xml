@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>../angrybitsCore</module>
-  	<module>../angrybitsSIM</module>
+  	<module>../angrybitsREST</module>
   	<module>../angrybitsWeb</module>
   </modules>
 </project>
